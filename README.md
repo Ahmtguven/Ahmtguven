@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Ahmet<a align="right" href="(https://www.linkedin.com/in/ahmtgvn/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="25" height="25"/></a></h2>
+<h2 align="center">Hi 👋, I'm Ahmet<a align="right" href="https://www.linkedin.com/in/ahmtgvn/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="25" height="25"/></a></h2>
 <h6>I graduated with a bachelor's degree in civil engineering. Alongside the FullStack Developer Bootcamp at Wissen Akademie, I started my programming journey in the second half of 2023. Since then, I have been developing myself as a skilled software developer.</h6>
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
